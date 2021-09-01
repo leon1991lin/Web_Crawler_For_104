@@ -1,6 +1,0 @@
-1. 利用自然語言處理(NLP)演算法，優化和加值公司產品與服務，包括文本分類(text classification)和自動摘要(automatic summarization)等。
-2. 建置和開發跨多產品的個人化推薦系統(recommendation systems)。
-3. 開發量化投資模型和選股模組等自動化投資系統。
-4. 針對公司服務，設計終身機器學習(lifelong machine learning)機制。
-5. 善於追蹤人工智慧界最新發展，熱於進行相關算法的實現。
-
