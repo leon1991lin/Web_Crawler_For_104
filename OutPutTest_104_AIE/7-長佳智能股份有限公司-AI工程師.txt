@@ -1,0 +1,5 @@
+1.	資料與模型處理：Data Pipelines (Preprocessing / Postprocessing), Modeling, Testing, Optimization.
+2.	資料視覺化：Data Visualization
+3.	解決方案設計與實施：Design and implement solutions for problems related to medical AI.
+4.	研究與開發新機器學習與深度學習技術：Research and develop new machine learning and deep learning techniques.
+5.其它主管交辦事項。
