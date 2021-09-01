@@ -61,4 +61,5 @@ for i in range(1,6): #設定預計的爬取頁數，目前先設置為5頁
             w.write(info)
         index += 1
 
+        
 print("Finish!")
