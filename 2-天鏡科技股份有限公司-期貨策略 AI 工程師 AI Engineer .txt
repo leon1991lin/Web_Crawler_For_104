@@ -1,0 +1,14 @@
+你是對期貨買賣操作有想法的人嗎 ? 
+
+徵求期貨界的傑西.李佛摩 -「最活躍的美國股市投機客」，想挑戰高薪及持續性收入嗎 ? 我們歡迎您加入「策略無限 - 策略開發」團隊 !!
+
+* 我們有全世界最厲害的回測系統，您發想出來的策略，回測台灣期貨19年的交易資料只要5-10分鐘，其他的回測系統則需要3-4 個小時。5-10分鐘我們還不滿意呢， 1 秒內完成19年的回測是未來目標，這真的很 COOL。
+
+* 我們有全世界最厲害的雲端Google 主機自動下單系統，免盯盤、家中免電腦、APP接受下單成交推播，您發想的策略，第二天立刻投入實戰。
+
+Required Skills & Experience
+• Experience of Deep Learning, machine learning and Artificial Intelligence with MS in Engineering, Mathematics, Computer Vision or Computer Science 
+• Experience working with modern Deep Learning techniques, framework and applications, Python, DL framework (e.g Tensorflow, Keras, PyTorch...), C, C++, C# programming experience (One of them) 
+• Experience working with Deep Learning projects 
+• Good teamwork and interpersonal skills 
+• Action oriented with good communication, analytical and problem-solving skills
